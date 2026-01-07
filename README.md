@@ -8,7 +8,7 @@ Connect with us on the interwebs using the links on the page and it is also a si
 * [Meetup.com](https://www.meetup.com/jhbmsdug) to see our events
 * [Sessionize](https://sessionize.com/JHBMSDUG) if you would like to speak at our events
 * [Discussions](https://github.com/orgs/JHBMSDUG/discussions) and a great way to connect with others
-* [LinkedIn](https://www.linkedin.com/company/johannesburg-ms-developer-user-group)
+* [LinkedIn](https://www.linkedin.com/company/jhbmsdug)
 * [X](https://www.x.com/JHBMSDUG) (formerly Twitter)
 * [YouTube](https://www.youtube.com/JHBMSDUG) (not active currently)
 
